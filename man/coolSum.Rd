@@ -2,23 +2,23 @@
 % Please edit documentation in R/main.R
 \name{coolSum}
 \alias{coolSum}
-\title{Acrescenta dois números(Título da função)}
+\title{Acrescenta dois numeros(Titulo da funcao)}
 \usage{
 coolSum(left, right = 0)
 }
 \arguments{
-\item{left}{Um número.}
+\item{left}{Um numero.}
 
-\item{right}{Um número opcional.}
+\item{right}{Um numero opcional.}
 }
 \value{
-A soma dos dois números
+A soma dos dois numeros
 }
 \description{
-Acrescenta dois números, ou retorna o número único (Sumário da função
+Acrescenta dois numeros, ou retorna o numero unico (Sumario da funcao)
 }
 \details{
-não há mais que se possa dizer! É uma função gira!
+nao ha mais que se possa dizer! E uma funcao gira!
 }
 \examples{
 coolSum(-3, 5)

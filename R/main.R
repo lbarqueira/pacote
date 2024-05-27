@@ -1,13 +1,13 @@
-#' Acrescenta dois números(Título da função)
+#' Acrescenta dois numeros(Titulo da funcao)
 #'
-#' Acrescenta dois números, ou retorna o número único (Sumário da função
+#' Acrescenta dois numeros, ou retorna o numero unico (Sumario da funcao)
 #'
-#' não há mais que se possa dizer! É uma função gira!
+#' nao ha mais que se possa dizer! E uma funcao gira!
 #'
-#' @param left Um número.
-#' @param right Um número opcional.
+#' @param left Um numero.
+#' @param right Um numero opcional.
 #'
-#' @return A soma dos dois números
+#' @return A soma dos dois numeros
 #' @export
 #'
 #' @examples
@@ -18,7 +18,7 @@ coolSum <- function(left, right = 0) {
 }
 
 coolFibbonaci <- function(n) {
-  stop("Este ainda não funciona, desculpa!")
+  stop("Este ainda nao funciona, desculpa!")
 }
 
 coolGraph <- function() {
